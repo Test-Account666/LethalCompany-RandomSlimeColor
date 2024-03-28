@@ -9,6 +9,7 @@ public class BlobPatch {
 
     [HarmonyPatch("Start")]
     [HarmonyPostfix]
+    [HarmonyAfter("Tomato.SCP999", "Tomato.LeanCompany")]
     // ReSharper disable once InconsistentNaming
     private static void AfterBlobStart(BlobAI __instance) {
         var colorIndex = Colors.GetRandomColorIndex();
