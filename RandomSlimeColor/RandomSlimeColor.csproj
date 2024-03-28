@@ -6,7 +6,7 @@
         <Product>RandomSlimeColor</Product>
         <!-- Change to whatever version you're currently on. -->
         <Version>1.0.1</Version>
-        <Description>Give you slimes some new colors!</Description>
+        <Description>Give your slimes some new colors!</Description>
         <Source>https://github.com/TheBlackEntity/LethalCompany-RandomSlimeColor</Source>
     </PropertyGroup>
 
