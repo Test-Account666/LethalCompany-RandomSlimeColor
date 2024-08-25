@@ -5,9 +5,9 @@
         <AssemblyName>TestAccount666.RandomSlimeColor</AssemblyName>
         <Product>RandomSlimeColor</Product>
         <!-- Change to whatever version you're currently on. -->
-        <Version>1.0.1</Version>
+        <Version>1.1.0</Version>
         <Description>Give your slimes some new colors!</Description>
-        <Source>https://github.com/Test-Account666/LethalCompany-RandomSlimeColor</Source>
+        <Source>https://github.com/Test-Account666/LethalCompany-RandomSlimeColor/</Source>
     </PropertyGroup>
 
     <!-- Project Properties -->
