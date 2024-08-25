@@ -1,5 +1,9 @@
 # Random Slime Color Mod
 
+## 1.1.1<br>
+
+\* Hot fix coming in hot, because I'm an idiot and forgot to include the asset bundle!<br>
+
 ## 1.1.0<br>
 
 \+ Added EnemySkinRegistry Support :)<br>
