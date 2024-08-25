@@ -12,4 +12,6 @@ public static class Colors {
     ];
 
     internal static int GetRandomColorIndex() => random.Next(0, GetColors.Length + 1);
+    
+    internal static int GetRandomColorIndexWithoutRainbow() => random.Next(0, GetColors.Length);
 }
